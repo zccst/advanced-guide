@@ -1,4 +1,4 @@
-# 币圈历年大事件
+# 币圈历年大事件（赛道变迁）
 ## 2023 震荡
 质押  
 衍生品  
@@ -9,10 +9,11 @@
 ETH Pow->Pos（2022.9.15）提高 99.95% 的能源效率和减少 90% 的碳排放量。  
 中间火过：DID（灵魂绑定），二层网络（op上主网），新公链（aptos）
 
-## 2021 牛市
-主要赛道：公链(sol/ftm/avax/matic/dot)，defi(uni/crv/link)，NFT(axs/ape)  
-其他：meme(shib)，元宇宙gamefi  
-OKC上线主网：2021.1.15
+## 2021 牛市（三大赛道+meme）
+1.15 OKC主网上线，减半周期3年  
+主要赛道：公链(dot/sol/ftm/avax/matic)，DeFi(comp/uni/crv/link)，NFT(无聊猿，艺术品，链游，元宇宙)  
+其他：meme(shib)，末日战车（EOS，TRX，LTC，BCH）  
+
 
 ## 2020 大幅波动
 Summer Party：comp, yfi, uni, crv, snx  
@@ -31,6 +32,6 @@ EOS第三代区块链：6月主网上线，连续一年线性解锁
 分片技术：zil  
 11月BTC再跌50%，矿机变废铁  
 
-## 2017 牛市
+## 2017 牛市（ICO）
 ICO，白皮书+一个网页就是一个项目。例如：qtum, hsr, nuls, lrc。。。
 
