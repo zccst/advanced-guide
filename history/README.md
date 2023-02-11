@@ -1,7 +1,11 @@
 # 币圈历年大事件（赛道变迁）
 ## 2023 震荡
-质押  
-衍生品  
+
+质押赛道：LDO, SSV,
+Layer2赛道：Optimism, Arbitrum  
+Layer2生态赛道：GMX, Dydx,  
+人工智能赛道：HIGH  
+
 
 ## 2022下行的一年
 持续暴雷：5月Terra 崩盘(UST,Luna) -> 6月三箭,Celsius流动性危机 -> 11月ftx，牵扯Genesis(GCT),Alameda  
