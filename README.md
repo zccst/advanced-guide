@@ -18,8 +18,11 @@
 
 
 ### 应用——NFT
-- 交易平台：[opensea](https://opensea.io/), [blur](https://blur.io/), [x2y2](https://x2y2.io/zh-Hans), [looksrare](https://looksrare.org/), [element](https://element.market/)  
+- 购买前看是否值得购买用工具：[nansen](https://www.nansen.ai/)
+- NFT交易平台：[opensea](https://opensea.io/), [blur](https://blur.io/), [x2y2](https://x2y2.io/zh-Hans), [looksrare](https://looksrare.org/), [element](https://element.market/)  
+
 - NFT追踪：[acnft.xyz](https://acnft.xyz/), [gem.xyz](https://www.gem.xyz/)  
+
 - 评估NFT：[nfteye.io](https://nfteye.io/), [uniq.cx](https://uniq.cx/), [nftgo.io](https://nftgo.io/)  
 
 - NFTFi
