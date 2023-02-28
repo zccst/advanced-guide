@@ -1,23 +1,6 @@
 # 币圈进阶指南
 ## 主要赛道
-### ETH
-1. 质押赛道，3月升级
-2. layer2（二层网络）扩容
-[Optimism](https://www.optimism.io/) [Arbitrum](https://arbitrum.io/)
-3. 分片
-
-### 新公链
-[Aptos](https://aptoslabs.com/)，[Sui](https://sui.io/)  
-模块化：[celestia](https://celestia.org/)
-
-### 应用——衍生品
-- 流动性质押衍生品协议（LSD）:[LDO](https://lido.fi/), [FXS](https://frax.finance/#welcome), [SSV]()  
-- 真实收益率（向持有者分配收入的通证将胜过只授予投票权的通证）：[GMX](https://gmx.io/#/), [SNX](https://synthetix.io/), [GNS](https://gains.trade/)  
-
-参考：[2023年1季度值得关注的19个重点项目一览](https://www.odaily.news/post/5184660)
-
-
-### 应用——NFT
+### 1. NFT交易市场和借贷
 - 购买前看是否值得购买用工具：[nansen](https://www.nansen.ai/)
 - NFT交易平台：[opensea](https://opensea.io/), [blur](https://blur.io/), [x2y2](https://x2y2.io/zh-Hans), [looksrare](https://looksrare.org/), [element](https://element.market/)  
 
@@ -27,12 +10,12 @@
 
 - NFTFi
 
-### 应用——GameFi
+### 2. 质押赛道
+3月升级
 
-### DID，SocialFi
 
-### DAO
-
+### 3. layer2（二层网络）扩容
+[Optimism](https://www.optimism.io/) [Arbitrum](https://arbitrum.io/)
 
 
 
