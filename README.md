@@ -1,5 +1,6 @@
 # 币圈进阶指南
 ## 主要赛道
+
 ### 1. NFT交易市场和借贷
 - 购买前看是否值得购买用工具：[nansen](https://www.nansen.ai/)
 - NFT交易平台：[opensea](https://opensea.io/), [blur](https://blur.io/), [x2y2](https://x2y2.io/zh-Hans), [looksrare](https://looksrare.org/), [element](https://element.market/)  
@@ -16,8 +17,7 @@
 
 ### 3. layer2（二层网络）扩容
 [Optimism](https://www.optimism.io/) [Arbitrum](https://arbitrum.io/)
-
-
+二层网络生态：[Arbitrum生态查看](https://defillama.com/chain/Arbitrum)
 
 ## 链上数据
 查看流入项目的资金：[defillama](https://defillama.com/)  
