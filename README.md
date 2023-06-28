@@ -1,42 +1,18 @@
 # 币圈进阶指南
 
-## 每日必看
-
-
-
-
-## 主要赛道
-
-### 1. NFT交易市场和借贷
-- 购买前看是否值得购买用工具：[nansen](https://www.nansen.ai/)
-- NFT交易平台：[opensea](https://opensea.io/), [blur](https://blur.io/), [x2y2](https://x2y2.io/zh-Hans), [looksrare](https://looksrare.org/), [element](https://element.market/)  
-
-- NFT追踪：[acnft.xyz](https://acnft.xyz/), [gem.xyz](https://www.gem.xyz/)  
-
-- 评估NFT：[nfteye.io](https://nfteye.io/), [uniq.cx](https://uniq.cx/), [nftgo.io](https://nftgo.io/)  
-
-- NFTFi
-
-### 2. 质押赛道
-3月升级
-
-
-### 3. layer2（二层网络）扩容
-[Optimism](https://www.optimism.io/) [Arbitrum](https://arbitrum.io/)
-二层网络生态：[Arbitrum生态查看](https://defillama.com/chain/Arbitrum)
-
 ## 链上数据
-查看流入项目的资金：[defillama](https://defillama.com/)  
-[coinglass](https://www.coinglass.com/zh)  
-查看一个生态系统中最热门的Dapp：[DappRadar](https://dappradar.com/)  
-查看项目收入情况：[Token Terminal](https://tokenterminal.com/)
-查看解锁情况：[Token Unlocks](https://token.unlocks.app/) + [Vest Lab](https://vestlab.io/)
+- 查看流入项目的资金：[defillama](https://defillama.com/)  
+- 查看项目收入情况：[Token Terminal](https://tokenterminal.com/)
+- [Dune](https://dune.com/home)  
+- [coinglass](https://www.coinglass.com/zh)  
+- 查看解锁情况：[Token Unlocks](https://token.unlocks.app/) + [Vest Lab](https://vestlab.io/)
 
-[Dune](https://dune.com/home)  
-[链上大师](https://www.oklink.com/zh-cn/chainhub)
+- 查看一个生态系统中最热门的Dapp：[DappRadar](https://dappradar.com/)  
+- [链上大师](https://www.oklink.com/zh-cn/chainhub)
 
 ## 机构
-[nansen](https://www.nansen.ai/)
+- [nansen](https://www.nansen.ai/)
+- [glassnode](https://glassnode.com/)
 
 ## 空投
 [airdrop](https://airdrops.io/)  
@@ -68,5 +44,44 @@
 
 
 
+
+
+
+## 主要赛道
+
+### BRC20
+
+
+### layer2（二层网络）扩容
+10月坎昆升级，大容量
+- 公链：[Optimism](https://www.optimism.io/) [Arbitrum](https://arbitrum.io/)
+- 二层网络生态：[Arbitrum生态查看](https://defillama.com/chain/Arbitrum)
+
+
+- ARB链所有生态项目
+https://portal.arbitrum.io/one
+- OP链生态项目
+https://optimism.io/apps/all
+- AVAX链
+https://core.app/discover/projects/all/…
+- BSC链
+https://dappbay.bnbchain.org
+- ZK链
+https://ecosystem.zksync.io
+- StarK链
+https://dappland.com
+
+### 质押赛道
+3月升级
+
+### NFT交易市场和借贷
+- 购买前看是否值得购买用工具：[nansen](https://www.nansen.ai/)
+- NFT交易平台：[opensea](https://opensea.io/), [blur](https://blur.io/), [x2y2](https://x2y2.io/zh-Hans), [looksrare](https://looksrare.org/), [element](https://element.market/)  
+
+- NFT追踪：[acnft.xyz](https://acnft.xyz/), [gem.xyz](https://www.gem.xyz/)  
+
+- 评估NFT：[nfteye.io](https://nfteye.io/), [uniq.cx](https://uniq.cx/), [nftgo.io](https://nftgo.io/)  
+
+- NFTFi
 
 
