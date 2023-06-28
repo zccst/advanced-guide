@@ -1,41 +1,59 @@
-# 币圈历年大事件（赛道变迁）
-## 2023 震荡
+# 币圈历年热点变迁
 
-质押赛道：LDO, SSV,
-Layer2赛道：Optimism, Arbitrum  
-Layer2生态赛道：GMX, Dydx,  
-人工智能赛道：HIGH  
+## 2023
 
+- 6月 sec起诉binance/coinbase，认定证券币导致大暴跌，几天后美国机构进场又释放利好btc/bch大涨。
+- 4-5月 brc20概念。ordi
+- 3-4月 meme：aidog, pepe；二层网络：arb发币；二层生态：GMX，RDNT，Magic
+- 2月 香港概念：cfx, ach等；质押赛道：LDO, SSV；人工智能赛道：HIGH。
+- 年初 NFT，ETH二层网络，ETH流动性质押
 
-## 2022下行的一年
-持续暴雷：5月Terra 崩盘(UST,Luna) -> 6月三箭,Celsius流动性危机 -> 11月ftx，牵扯Genesis(GCT),Alameda  
-拜登签署加密监管行政命令, 美国财政部制裁 Tornado Cash  
-ETH Pow->Pos（2022.9.15）提高 99.95% 的能源效率和减少 90% 的碳排放量。  
+## 2022
+
+- 12月 ftx相关机构Genesis，Gemini，Alameda等暴雷；灰度破产传言；
+- 11月 ftx暴雷。BTC再下一个台阶，ETH没有再创新低。
+- 9月 ETH Pow->Pos（2022.9.15）提高 99.95% 的能源效率和减少 90% 的碳排放量。
 中间火过：DID（灵魂绑定），二层网络（op上主网），新公链（aptos）
+- 6月 三箭，Celsius流动性危机，导致死亡螺旋，连环踩踏。ETH跌到800美元。
+- 5月 Terra 崩盘(UST,Luna)。Luna从100美元开始下跌。
 
-## 2021 牛市（三大赛道+meme）
-1.15 OKC主网上线，减半周期3年  
-主要赛道：公链(dot/sol/ftm/avax/matic)，DeFi(comp/uni/crv/link)，NFT(无聊猿，艺术品，链游，元宇宙)  
-其他：meme(shib)，末日战车（EOS，TRX，LTC，BCH）  
+## 2021牛市（三大赛道+meme+BTC/ETH）
 
+主要赛道：公链(dot/sol/ftm/avax/matic)，DeFi(comp/uni/crv/link)，NFT(无聊猿，艺术品，链游，元宇宙) ，其他：meme(shib)，末日战车（EOS，TRX，LTC，BCH）
 
-## 2020 大幅波动
-Summer Party：comp, yfi, uni, crv, snx  
-OKC上线测试网
+- 11月 gamefi崛起。BTC/ETH创历史新高。市场所有热点反复超过，达到顶点后开始衰落。
+- 7-8月 NFT崛起
+- 5月 519大跌。中国金融委打击比特币挖矿和交易。
+- 4月 meme。shib最成功，其次是babydog等。
 
-## 2019 震荡
-CEX掌握生杀大权：IEO，STO  
-BTC从3200到15000（在2015年时并没有）带动一轮行情
+## 2020
 
+- 12月 BTC/ETH创新高，走出2017牛市高点。defi开始二次起飞。这一轮10倍+
+- 10月 国庆节后一周，BTC开始大涨。之前defi火的时候很长时间一动不动。
+- 8-9 defi第一轮熄火，大幅调整。没亏钱的去看看crv的k线。
+- 6月 summer party开启comp, yfi, uni, crv, snx, sushi。yfi成为最亮的星。
+- 4-5月 市场修整两个月，很安静。天气由冬天转暖，公园里开始一片春色。
+- 3月 312大暴跌，从10500->8000->7000->3700。
+- 1-2月 炒作BTC减半，最高到10500。
 
-## 2018下行的一年
-OK成立区块链研究院  
-ICO浪潮，上半年继续火热，直至下半年才逐渐熄火  
-EOS第三代区块链：6月主网上线，连续一年线性解锁  
-国产公链元年（Trx, true, elf等）  
-分片技术：zil  
-11月BTC再跌50%，矿机变废铁  
+## 2019
 
-## 2017 牛市（ICO）
-ICO，白皮书+一个网页就是一个项目。例如：qtum, hsr, nuls, lrc。。。
+- 10月 中国政治局常委学习区块链。BTC从7000+涨到11000+
+- 7-8月 BTC上涨至接近14000
+- 4月 BTC突然大涨。ieo概念兴起。
 
+## 2018
+
+- 11月 BTC再下一个台阶至3100-3300，矿机变废铁。
+- 9月  BTC下到6000平台
+- 6月  BTC在10000平台
+- 4月  国产公链元年。TRX，True，ELF，Zil，ONT。由EOS带动：6月主网上线，连续一年线性解锁  
+- 3月  国内区块链大会偏地都是，五道口最多。
+- ICO浪潮，上半年继续火热，直至下半年才逐渐熄火
+
+## 2017牛市（BTC/ETH+山寨币）
+
+- 12月 到达牛市最高点。BTC接近2万美元，ETH 1400+，接近人民币1万。
+那年的空气币：qtum, hsr, nuls, lrc, fair, act, btm。。。
+- 9月 94事件。大暴跌。小所9.30清退，大所10.31清退。
+- 7-8月 ico大火，一个白皮书+一个网页。医疗链，选举链。。。
