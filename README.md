@@ -90,4 +90,10 @@
 
 - NFTFi
 
+### meme赛道
 
+社群里有人喊，扔个token name或合约到群里，然后他们就去网站（dexscreener, ave.ai, dextools）里查token的k线，看持币地址，看持仓分布，最终决定要不要冲。
+
+- [dexscreener](https://dexscreener.com/)。dexscreener可以帮用户DYOR，然后用户可以直接在它平台买，它直接调uniswap接口，这就漏到它自己平台了，不需要去其它平台。
+- [ave.ai](https://ave.ai/)
+- [dextools](https://www.dextools.io/app/cn/pairs)
